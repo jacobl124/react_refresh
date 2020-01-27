@@ -7,6 +7,7 @@ export default function Post (props) {
 
     return (
        <div className="post" style={{color: props.color}} onClick={()=>setPost(post+1)}>
+           <h1>{props.name}</h1>
            Post Number: {post}
        </div>
     );

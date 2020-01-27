@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d74f1e4-6ede-4673-8ce4-8c4836302ead" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Item/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ItemPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Item/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/Item.js" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,6 +54,18 @@
       <recent name="C:\Users\Cwizzyee\WebstormProjects\webstorm_test\src\components\About" />
       <recent name="C:\Users\Cwizzyee\WebstormProjects\webstorm_test\src\assets" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -71,18 +82,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,11 +93,23 @@
       <option name="presentableId" value="Default" />
       <updated>1578945734786</updated>
       <workItem from="1578945737978" duration="7799000" />
+      <workItem from="1580089869643" duration="4997000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579116950485">
